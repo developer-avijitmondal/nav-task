@@ -16,7 +16,8 @@ import { AdmindashboardComponent } from './admindashboard/admindashboard.compone
     BlogComponent,
     NavbarComponent,
     AdminLoginComponent,
-    AdmindashboardComponent
+    AdmindashboardComponent,
+  
   ],
   imports: [
     BrowserModule,
