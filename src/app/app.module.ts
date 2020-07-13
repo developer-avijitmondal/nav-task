@@ -8,6 +8,7 @@ import { BlogComponent } from './blog/blog.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { AdminLoginComponent } from './admin-login/admin-login.component';
 import { AdmindashboardComponent } from './admindashboard/admindashboard.component';
+import { AdminlogoutComponent } from './adminlogout/adminlogout.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,9 @@ import { AdmindashboardComponent } from './admindashboard/admindashboard.compone
     NavbarComponent,
     AdminLoginComponent,
     AdmindashboardComponent,
-  
+
+    AdminlogoutComponent
+
   ],
   imports: [
     BrowserModule,
