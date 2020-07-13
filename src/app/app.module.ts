@@ -18,7 +18,9 @@ import { AdminlogoutComponent } from './adminlogout/adminlogout.component';
     NavbarComponent,
     AdminLoginComponent,
     AdmindashboardComponent,
+
     AdminlogoutComponent
+
   ],
   imports: [
     BrowserModule,
