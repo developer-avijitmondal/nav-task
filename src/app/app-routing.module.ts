@@ -7,7 +7,7 @@ import { AdminLoginComponent } from './admin-login/admin-login.component';
 const routes: Routes = [
   { path:'home', redirectTo:'',pathMatch:'full' },
   { path:'',component: HomeComponent },
-  { path : 'admin-login', component : AdminLoginComponent}
+  { path : 'admin-login', component : AdminLoginComponent }
 
 ];
 
